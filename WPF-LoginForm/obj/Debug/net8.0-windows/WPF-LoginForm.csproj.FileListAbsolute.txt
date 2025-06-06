@@ -1,0 +1,54 @@
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.exe
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.deps.json
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.runtimeconfig.json
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.dll
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.pdb
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\View\LoginView.g.cs
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\App.g.cs
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_MarkupCompile.cache
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_MarkupCompile.lref
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\MainWindow.baml
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\View\LoginView.baml
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.g.resources
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.AssemblyInfoInputs.cache
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.AssemblyInfo.cs
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.csproj.CoreCompileInputs.cache
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.dll
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\refint\WPF-LoginForm.dll
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.pdb
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.genruntimeconfig.cache
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\ref\WPF-LoginForm.dll
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\back-image.jpg
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_Content.g.cs
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\key-icon.png
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\logo.png
+E:\2025\CSharp\WPF\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\user-icon.png
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.exe
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\back-image.jpg
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\key-icon.png
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\logo.png
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\Images\user-icon.png
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.deps.json
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.runtimeconfig.json
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.dll
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\bin\Debug\net8.0-windows\WPF-LoginForm.pdb
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\View\LoginView.g.cs
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\App.g.cs
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_Content.g.cs
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_MarkupCompile.cache
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm_MarkupCompile.lref
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\MainWindow.baml
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\View\LoginView.baml
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.g.resources
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.AssemblyInfoInputs.cache
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.AssemblyInfo.cs
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.csproj.CoreCompileInputs.cache
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.dll
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\refint\WPF-LoginForm.dll
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.pdb
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\WPF-LoginForm.genruntimeconfig.cache
+E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\ref\WPF-LoginForm.dll
