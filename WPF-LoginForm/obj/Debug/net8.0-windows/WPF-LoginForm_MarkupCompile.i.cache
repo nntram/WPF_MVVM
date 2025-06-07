@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\
+E:\2025\CSharp\WPF-LoginForm\WPF-LoginForm\obj\Debug\net8.0-windows\
 WPF_LoginForm
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\2025\New folder\New folder\WPF-LoginForm\WPF-LoginForm\App.xaml
-2376403462
+E:\2025\CSharp\WPF-LoginForm\WPF-LoginForm\App.xaml
+3-1581796297
 41614664892
-71654070217
-198-556154604
-MainWindow.xaml;View\LoginView.xaml;
+17-1032534995
+2271304337322
+CustomControls\BindablePasswordBox.xaml;MainWindow.xaml;Views\LoginView.xaml;
 
-True
+False
 

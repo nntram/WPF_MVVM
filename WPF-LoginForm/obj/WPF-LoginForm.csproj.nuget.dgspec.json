@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2025\\New folder\\New folder\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj": {}
+    "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj": {}
   },
   "projects": {
-    "E:\\2025\\New folder\\New folder\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj": {
+    "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2025\\New folder\\New folder\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj",
+        "projectUniqueName": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj",
         "projectName": "WPF-LoginForm",
-        "projectPath": "E:\\2025\\New folder\\New folder\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj",
+        "projectPath": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\WPF-LoginForm.csproj",
         "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
-        "outputPath": "E:\\2025\\New folder\\New folder\\WPF-LoginForm\\WPF-LoginForm\\obj\\",
+        "outputPath": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
