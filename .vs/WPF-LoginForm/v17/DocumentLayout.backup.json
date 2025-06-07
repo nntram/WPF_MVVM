@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "E:\\2025\\CSharp\\WPF-LoginForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|e:\\2025\\csharp\\wpf-loginform\\wpf-loginform\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A5C31726-24E3-4281-9EF9-E53562F4E8CB}|WPF-LoginForm\\WPF-LoginForm.csproj|solutionrelative:wpf-loginform\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,91 +42,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "WPF-LoginForm\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:42:23.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Models\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\Models\\IUserRepository.cs",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Models\\IUserRepository.cs",
-              "RelativeToolTip": "WPF-LoginForm\\Models\\IUserRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:42:04.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\App.xaml.cs",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\App.xaml.cs",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\App.xaml.cs*",
-              "RelativeToolTip": "WPF-LoginForm\\App.xaml.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:37:14.321Z",
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "WPF-LoginForm\\Views\\HomeView.xaml",
+              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Views\\HomeView.xaml",
+              "RelativeToolTip": "WPF-LoginForm\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T15:49:29.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\App.xaml",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\App.xaml",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\App.xaml",
-              "RelativeToolTip": "WPF-LoginForm\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-06T17:38:44.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF-LoginForm\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-LoginForm\\Views\\HomeView.xaml.cs",
+              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "WPF-LoginForm\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:36:47.694Z",
+              "WhenOpened": "2025-06-07T15:49:24.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "WPF-LoginForm\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "WPF-LoginForm\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwCIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:33:43.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF-LoginForm\\MainWindow.xaml",
               "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml",
               "RelativeToolTip": "WPF-LoginForm\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-06T17:32:52.522Z",
+              "WhenOpened": "2025-06-07T15:47:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF-LoginForm\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPF-LoginForm\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:36:38.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-LoginForm\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\2025\\CSharp\\WPF-LoginForm\\WPF-LoginForm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF-LoginForm\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:12:31.322Z",
               "EditorCaption": ""
             }
           ]

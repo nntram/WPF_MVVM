@@ -16,7 +16,7 @@ namespace WPF_LoginForm
             loginView.Show();
             loginView.IsVisibleChanged += (s, ev) =>
             {
-                if (loginView.IsVisible == false && loginView.IsLoaded)
+                if (loginView.IsVisible == false && loginView.IsLoaded && Thread.CurrentPrincipal != null)
                 {
                     var mainView = new MainWindow();
                     mainView.Show();
